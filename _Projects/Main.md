@@ -12,3 +12,5 @@ tags:
 </center>
 </p>
 
+[Test HTML Content](/assets/html/millionaire-quiz-game/tutorial.html) 
+
