@@ -12,5 +12,5 @@ tags:
 </center>
 </p>
 
-This site is no longer actively maintained, visit <a href="francesca.fyi/projects> francesca.fyi/projects </a> for up to date content. :)
+This site is no longer actively maintained, visit *francesca.fyi/projects* for up to date content. :)
 
