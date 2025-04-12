@@ -102,11 +102,11 @@ analytics:
 author:
   name             : "Francesca Frattaroli"
   avatar           : /assets/pimages/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "BSME Fa Sol La Ti Do"
+  bio              : #"BSME Fa Sol La Ti Do"
   location         : "Portland, OR"
   email            : 
   uri              :
-  home             : francesca.fyi # null (default), "absolute or relative url to link to author home"
+  home             : #francesca.fyi # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
